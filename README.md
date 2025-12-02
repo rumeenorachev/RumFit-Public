@@ -35,7 +35,7 @@ El **código fuente** se encuentra en un repositorio **privado**, disponible baj
 
 | Progreso del peso | Ejercicios |
 |------------------|------------|
-| ![Progreso](media/screenshots/Screenshot_20251201-003655_RumFit.png) | ![Ejercicios](media/screenshots/Screenshot_20251201-003610_RumFit.png) |
+| ![Progreso](media/screenshots/Screenshot_20251201-003655_RumFit.jpg) | ![Ejercicios](media/screenshots/Screenshot_20251201-003610_RumFit.jpg) |
 
 ---
 
