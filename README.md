@@ -26,7 +26,7 @@ El **código fuente** se encuentra en un repositorio **privado**, disponible baj
 
 ## 📥 Descargar APK
 
-👉 **[Descargar RumFit.apk](media/apk/RumFit.apk)**  
+👉 [Descargar RumFit.apk](https://raw.githubusercontent.com/rumeenorachev/RumFit-Public/main/media/apk/RumFit.apk)  
 *(Funciona en dispositivos Android 8.0 o superior)*
 
 ---
