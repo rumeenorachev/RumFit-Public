@@ -45,6 +45,14 @@ El **código fuente** se encuentra en un repositorio **privado**, disponible baj
 
 ---
 
+## 📄 Documentación del proyecto
+
+Incluye una presentación preliminar del proyecto RumFit, donde se muestran las funcionalidades actuales, el diseño de la app y el progreso del desarrollo.
+
+👉 [Ver presentación (PDF)](media/documentacion/RumFit_Presentación.pdf)
+
+---
+
 ## 🧱 Arquitectura
 
 RumFit está construida siguiendo el patrón **Model–View–ViewModel (MVVM)** utilizando el stack moderno de Android:
