@@ -1,8 +1,8 @@
 # 📱 RumFit — App Fitness para Android
 
-**RumFit** es una aplicación móvil desarrollada en **Kotlin + MVVM** que permite gestionar rutinas de entrenamiento de forma sencilla y visual.  
-Actualmente es **plenamente funcional**, pero se encuentra en **desarrollo activo**, incorporando nuevas características y mejoras de forma continua.
+**RumFit** es una aplicación móvil desarrollada en **Kotlin + MVVM** que permite gestionar rutinas de entrenamiento de forma sencilla y visual.
 
+Actualmente es **plenamente funcional**, pero se encuentra en **desarrollo activo**, incorporando nuevas características y mejoras de forma continua.
 Este proyecto forma parte de mi **Trabajo de Fin de Grado (TFG)** del Grado Superior de **Desarrollo de Aplicaciones Multiplataforma** y está siendo preparado para su **lanzamiento oficial en el mercado**.
 
 La versión pública incluye la APK, capturas y documentación del proyecto.  
