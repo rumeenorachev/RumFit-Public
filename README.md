@@ -49,7 +49,7 @@ El **código fuente** se encuentra en un repositorio **privado**, disponible baj
 
 Incluye una presentación preliminar del proyecto RumFit, donde se muestran las funcionalidades actuales, el diseño de la app y el progreso del desarrollo.
 
-👉 [Ver presentación (PDF)](media/documentacion/RumFit_Presentación.pdf)
+👉 [Ver presentación (PDF)](media/documentation/RumFit_Presentacion.pdf)
 
 ---
 
